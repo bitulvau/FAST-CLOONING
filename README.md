@@ -37,6 +37,8 @@ Always love your father and mother 🥰🥰
 
 👅 pkg install git
 
+👅 rm -rf FAST-CLOONING
+
 👅 git clone https://github.com/bitulvau/FAST-CLOONING.git
 
 👅 cd FAST-CLOONING
